@@ -1,6 +1,6 @@
 # Unser Familienbuch
 
-[Familienbuch öffnen](https://mpusceddu.github.io/familienbuch-pages/)
+[Familienbuch öffnen](https://stammbaum.pusceddu.de/)
 
 Statische Ausgabe für GitHub Pages. Dieses Repository enthält die öffentliche Anmeldeseite sowie **verschlüsselte** Familieninhalte und Bilder.
 
