@@ -1,0 +1,1 @@
+{"version":1,"algorithm":"AES-GCM-256","kdf":"PBKDF2-SHA256","iterations":1000000,"salt":"oOU8CM5jDapmr+vQg8DcHYrjNgwHgk8e","data":"vault/07ac1588d4e26d74ce4f560556642cd5/family.bin"}
