@@ -1,5 +1,7 @@
 # Unser Familienbuch
 
+[Familienbuch öffnen](https://mpusceddu.github.io/familienbuch-pages/)
+
 Statische Ausgabe für GitHub Pages. Dieses Repository enthält die öffentliche Anmeldeseite sowie **verschlüsselte** Familieninhalte und Bilder.
 
 Die Inhalte werden erst nach Eingabe des Familienpassworts im Browser entschlüsselt. Das Passwort und unverschlüsselte Quelldaten sind nicht Teil dieses Repositorys.
